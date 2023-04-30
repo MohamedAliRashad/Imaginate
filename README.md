@@ -9,7 +9,7 @@ Imaginate is a gradio app for generating images from initial images and prompts
 1. Clone the repo using `git-lfs` (Install it usin `sudo apt install git-lfs` if you are using ubuntu)
 >     git lfs clone https://github.com/MohamedAliRashad/Imaginate.git
 1. Run `python app.py`
-1. Install the required packages based on the errors you get (I am too lazy to add a `requirements.txt`
+1. Install the required packages based on the errors you get (I am too lazy to add a `requirements.txt`)
 
 And that's it 🤠
 
