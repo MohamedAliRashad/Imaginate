@@ -202,31 +202,31 @@ with gr.Blocks(title="Imaginate", theme="sudeepshouche/minimalist").queue() as d
     examples = gr.Examples(
         [
             [
-                "fa59914e1af9f7512722d7dba492ff7d.jpg",
+                "sample1.jpg",
                 "Arab",
                 "Arab, sword and shield, d & d, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp focus, illustration, hearthstone, art by artgerm and greg rutkowski and alphonse mucha",
                 78410,
             ],
             [
-                "337611cc2b73d3561fd614f6e2cb20aa.jpg",
+                "sample2.jpg",
                 "Green",
                 "Greenan Book Runner. Trending on Artstation, octane render, cinematic lighting from the right, hyper realism, octane render, 8k, depth of field, 3D",
                 8685,
             ],
             [
-                "e4a7c6b6d0235a4e67381b9e2a564962.jpg",
+                "sample3.jpg",
                 "simple man",
                 "simple man with black hair with a gray mustache. In style of Yoji Shinkawa and Hyung-tae Kim, trending on ArtStation, dark fantasy, great composition, concept art, highly detailed.",
                 47510,
             ],
             [
-                "7d26ef4a446181785cddd88b30bc2ef5.jpg",
+                "sample4.jpg",
                 "Chinese",
                 "Chinese art, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp focus, illustration, art by Artgerm and Greg Rutkowski and Alphonse Mucha",
                 51354,
             ],
             [
-                "9b9bfde243e309453cbf7b815c51e72e.jpg",
+                "sample5.jpg",
                 "Realistic man holding sword in his hand",
                 "Realistic man holding sword in his hand cinematic sci-fi art by Marc Simonetti and Greg Rutkowski, Ralph McQuarrie, James Gurney, artstation, cgsociety",
                 50398,
